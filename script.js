@@ -6,14 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Quais são os desafios enfrentados na criação de tecnologias acessíveis e como podem ser superados?",
+    enunciado: "Qual o carro mais caro de gta V? (modo história)",
     alternativas: [
         {
-            texto:"Custos elevados",
+            texto:"Pegassi Tezeract",
             afirmacao: "afirmação 1"
         },
         {
-        texto:"Conscientização e educação",
+        texto:"Progen Emerus",
         afirmacao: "afirmação 2"
         }
     ]
